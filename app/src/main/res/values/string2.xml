@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name_2">My Application 2</string>
+    <string name="action_settings_2">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label_">First Fragment</string>
+    <string name="second_fragment_label_2">Second Fragment</string>
+    <string name="third_fragment_label_2">Third Fragment</string>
+    <string name="next_2">Next</string>
+    <string name="previous_2">Previous</string>
+
+    <string name="Tela_2">
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+        Tela 2
+        \n\n
+    </string>
+</resources>
